@@ -26,12 +26,13 @@ In training, our default stream is only based on graph-level information, as we 
 If you find this work useful, please consider our paper to cite:
 
 ```
-@inproceedings{zhang22towards,
- author={Zhang, Francis Xiatian and Moubayed, Noura Al and Shum, Hubert P. H.},
- booktitle={Proceedings of the 2022 IEEE-EMBS International Conference on Biomedical and Health Informatics},
- title={Towards Graph Representation Learning Based Surgical Workflow Anticipation },
- year={2022},
- publisher={IEEE},
- location={Ioannina, Greece},
+@inproceedings{zhang24Depth,
+ author={Zhang, Francis Xiatian and Chen, Shuang and Xie, Xianghua and Shum, Hubert P. H.},
+ booktitle={Proceedings of the 2024 International Conference on Medical Image Computing and Computer Assisted Intervention},
+ series={MICCAI '24},
+ title={Depth-Aware Endoscopic Video Inpainting},
+ year={2024},
+ publisher={Springer},
+ location={Marrakesh, Morocco},
 }
 ```
